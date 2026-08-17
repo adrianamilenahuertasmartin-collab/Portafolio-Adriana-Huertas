@@ -1,0 +1,1 @@
+# Metodología DMAIC y Lean

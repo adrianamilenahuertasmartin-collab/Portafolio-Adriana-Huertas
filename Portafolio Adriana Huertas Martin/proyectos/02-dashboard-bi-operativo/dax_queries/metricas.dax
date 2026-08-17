@@ -1,0 +1,9 @@
+// Medidas DAX Principales
+Total_Transacciones = COUNT(Fact_Operaciones[id_transaccion])
+
+Tasa_Cumplimiento_SLA = 
+DIVIDE(
+    CALCULATE(COUNT(Fact_Operaciones[id_transaccion]), Fact_Operaciones[sla_cumplido] = 1),
+    [Total_Transacciones],
+    0
+)

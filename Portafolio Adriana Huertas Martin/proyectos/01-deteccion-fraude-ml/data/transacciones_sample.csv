@@ -1,0 +1,6 @@
+id_transaccion,monto_usd,score_riesgo,ubicacion_inusual,monto_elevado,es_fraude
+TX-9001,1200.50,0.89,1,1,1
+TX-9002,45.00,0.02,0,0,0
+TX-9003,3200.00,0.95,1,1,1
+TX-9004,15.20,0.01,0,0,0
+TX-9005,890.00,0.78,1,0,1
