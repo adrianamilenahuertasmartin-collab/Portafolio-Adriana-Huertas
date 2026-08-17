@@ -1,0 +1,1 @@
+Coloca tu foto de perfil llamada 'foto_perfil.jpg' en esta carpeta para verla en la web.
